@@ -7,7 +7,7 @@
 
 # Site settings
 title: UniMelb Links
-description: A collection of links (and more) for UniMelb.
+description: A collection of links (and more) for The University of Melbourne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unimelblinks.github.io" # the base hostname & protocol for your site
 exclude: ['README.md', 'CONTRIBUTING.md', 'Gemfile.lock', 'Gemfile']
