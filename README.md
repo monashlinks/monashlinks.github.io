@@ -1,8 +1,8 @@
-# RMIT Links
+# UniMelb Links
 
-A collection of links for RMIT University.
+A collection of links for students of The University of Melbourne.
 
-This site contains portions of code from the [MHS Links](https://github.com/mhslinks/mhslinks.github.io) project, whose code is distributed under the MIT license.
+This site contains portions of code from the [MHS Links](https://github.com/mhslinks/mhslinks.github.io) project and the [RMIT Links](https://github.com/rmitlinks/rmitlinks.github.io) project, whose code is distributed under the MIT license.
 
 ```
 MIT License
