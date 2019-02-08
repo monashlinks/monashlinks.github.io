@@ -1,6 +1,6 @@
 # Contributing
 
-We've done our best to make RMIT Links as easy as possible to contribute to. To add changes to RMIT Links, you first need to fork the repository (on desktops, you can use the fork button on the top right) to your own account. Once you submit changes to your own repository, you can then submit a pull request. See [Submitting changes](#submitting-changes) below.
+We've done our best to make UniMelb Links as easy as possible to contribute to. To add changes to UniMelb Links, you first need to fork the repository (on desktops, you can use the fork button on the top right) to your own account. Once you submit changes to your own repository, you can then submit a pull request. See [Submitting changes](#submitting-changes) below.
 
 ## Contents
 
