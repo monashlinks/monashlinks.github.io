@@ -1,6 +1,6 @@
-# UniMelb Links
+# Monash Links
 
-A collection of links for students of The University of Melbourne.
+A collection of links for students of Monash University.
 
 This site contains portions of code from the [MHS Links](https://github.com/mhslinks/mhslinks.github.io) project and the [RMIT Links](https://github.com/rmitlinks/rmitlinks.github.io) project, whose code is distributed under the MIT license.
 
@@ -28,7 +28,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-This site is not owned nor endorsed by The University of Melbourne.
+This site is not owned nor endorsed by Monash University.
 
 ## Contributing
 
