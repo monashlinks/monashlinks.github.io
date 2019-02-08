@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: University of Melbourne Links
+title: UniMelb Links
 description: A collection of links (and more) for The University of Melbourne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unimelblinks.github.io" # the base hostname & protocol for your site
@@ -14,6 +14,6 @@ exclude: ['README.md', 'CONTRIBUTING.md', 'Gemfile.lock', 'Gemfile']
 
 # link-directory theme config
 remote_theme: evilgoldfish/link-directory
-real_name: The University of Melbourne
+real_name: University of Melbourne
 real_home: "https://unimelb.edu.au"
 source_url: "https://github.com/unimelblinks/unimelblinks.github.io"
