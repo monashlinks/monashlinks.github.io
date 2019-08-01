@@ -13,7 +13,7 @@ url: "https://monashlinks.github.io" # the base hostname & protocol for your sit
 exclude: ['README.md', 'CONTRIBUTING.md', 'Gemfile.lock', 'Gemfile']
 
 # link-directory theme config
-remote_theme: evilgoldfish/link-directory
+remote_theme: epetousis/link-directory
 real_name: Monash University
 real_home: "https://www.monash.edu/"
 source_url: "https://github.com/monashlinks/monashlinks.github.io"
